@@ -1,7 +1,7 @@
 {
 	"facebookAccount": {
-		"email": "solariscrimson10@gmail.com",
-		"password": "sapiensgpt",
+		"email": "sapiensjc@gmail.com",
+		"password": "noblesse",
 		"2FASecret": "",
 		"i_user": "",
 		"proxy": null,
@@ -43,7 +43,7 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "solariscrimson10@gmail.com",
+			"email": "sapiensjc@gmail.com",
 			"clientId": "320237096807-lq1auvdcmrnoqsrt17rl3c923nk5ro5k.apps.googleusercontent.com",
 			"clientSecret": "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",
 			"refreshToken": "1//04jBko6eZWAY2CgYIARAAGAQSNwF-L9Ir3zszUK-MqcLCVvS0fvC77TgRoSJMTlZtbHhiIRprbqvaJYtAjUFFQ0_cRn7AbYcm13c",
